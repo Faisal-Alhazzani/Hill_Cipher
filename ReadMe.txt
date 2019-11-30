@@ -1,0 +1,1 @@
+This Program implements Hill Cipher 2*2 algorithm. It asks the user to enter a four letters word to encrypt it or decrypt it with the desired key.
